@@ -1,0 +1,32 @@
+# LaTeX compilation artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex*
+*.run.xml
+*-blx.bib
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# R
+.Rhistory
+.Rproj.user/
+.RData
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary Office files
+~$*
