@@ -30,7 +30,7 @@ Four-model cascade:
 
 ## Iteration History
 
-The `Latex版本_论文/` directory contains 15 sequential versions (Article_1 through Article_15), showing the complete writing and revision process from initial draft to final submission.
+The `latex-source/` directory contains 15 sequential versions (Article_1 through Article_15), showing the complete writing and revision process from initial draft to final submission.
 
 | File | Description |
 |---|---|
@@ -45,9 +45,7 @@ The `Latex版本_论文/` directory contains 15 sequential versions (Article_1 t
 mcm-2025/
 ├── README.md
 ├── 2025_MCM_Problem_C.pdf          # Problem statement
-├── scripts/                         # Data analysis scripts
-│   └── *.py
-└── Latex版本_论文/                   # LaTeX sources + compiled PDFs
+└── latex-source/                    # LaTeX sources + compiled PDFs
     ├── mcmthesis.cls                # MCM template class
     ├── Article_1.tex/pdf through Article_15.tex/pdf
     ├── MCM-ICM_Summary.tex/pdf
