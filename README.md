@@ -47,7 +47,9 @@ Four days later, I had produced a camera-ready paper that had gone through 15 it
 
 The harder skill was invisible. I wasn't building the models — but the team's shared principle was simple: the paper is the product. Everyone's job was to figure out the most efficient way to get their work onto the page. That meant designing a relay system: my teammates would walk me through what they'd built, I'd draft the section, they'd check it for accuracy, and we'd iterate. The mock training from the week before was what made this possible — we already knew how each other communicated, so the handoffs were fast.
 
-And the models kept changing. Drafting against a moving target — structuring arguments that could survive a last-minute formula adjustment — turned out to be the most transferable skill of all. It's exactly the rhythm of research writing, and I discovered I'm good at it.
+And the models kept changing. Drafting against a moving target — structuring arguments that could survive last-minute adjustments — turned out to be the most transferable skill of all. It taught me something specific about how to structure a team writing workflow: build the narrative backbone early, then slot in final numbers later. That way the writer isn't hostage to the modeler's timeline.
+
+Looking back at the paper now, there's one structural choice I'd make differently. The four models form a cascade — but Model 3 and Model 4 are arguably answering two halves of the same question. If I were to restructure it today, I'd weave them into a single section. The current separation made sense given what we knew at the time, but it's not the clearest possible architecture for the reader.
 
 ## Iteration History
 
