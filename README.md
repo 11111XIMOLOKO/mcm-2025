@@ -49,8 +49,6 @@ The harder skill was invisible. I wasn't building the models — but the team's 
 
 And the models kept changing. Drafting against a moving target — structuring arguments that could survive last-minute adjustments — turned out to be the most transferable skill of all. It taught me something specific about how to structure a team writing workflow: build the narrative backbone early, then slot in final numbers later. That way the writer isn't hostage to the modeler's timeline.
 
-Looking back at the paper now, there's one structural choice I'd make differently. The four models form a cascade — but Model 3 and Model 4 are arguably answering two halves of the same question. If I were to restructure it today, I'd weave them into a single section. The current separation made sense given what we knew at the time, but it's not the clearest possible architecture for the reader.
-
 ## Iteration History
 
 The `latex-source/` directory preserves all 15 versions:
