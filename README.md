@@ -39,6 +39,8 @@ The paper documents a four-model cascade for Olympic medal prediction:
 
 **Writing as a process** — 15 sequential versions (Article_1 through Article_15) show the complete drafting and revision cycle: from initial scaffold → incremental refinement → final polished submission.
 
+**What I learned** — This was my first experience producing a full-length English academic paper under time pressure. I learned how to structure a multi-model narrative so each section builds on the previous one, how to manage a LaTeX project that grows to thousands of lines across 15 iterations, and most importantly, how to serve as the bridge between mathematical modeling and readable prose — a skill directly transferable to graduate research.
+
 ## Iteration History
 
 The `latex-source/` directory preserves all 15 versions:
@@ -55,7 +57,9 @@ The `latex-source/` directory preserves all 15 versions:
 ```
 mcm-2025/
 ├── README.md
-├── 2025_MCM_Problem_C.pdf          # Problem statement
+├── LICENSE
+├── award-certificate.pdf            # MCM/ICM award certificate
+├── 2025_MCM_Problem_C.pdf           # Problem statement
 └── latex-source/                    # LaTeX sources + compiled PDFs
     ├── mcmthesis.cls                # MCM template class
     ├── Article_1.tex/pdf through Article_15.tex/pdf
