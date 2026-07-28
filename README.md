@@ -2,40 +2,49 @@
 
 > ⚠️ **Repository Status: Complete / Archived.** This repository was retrospectively created in July 2026 to archive work originally completed in May 2025. It will not receive updates.
 
+## My Role
+
+**Lead English paper writer & LaTeX typesetter.** I translated the team's modeling work into a complete English academic paper with full LaTeX typesetting — writing the narrative, structuring the argument, typesetting equations/tables/figures, managing the bibliography, and producing the final camera-ready PDF. The four models described below were developed by my teammates; my contribution was documenting them in a clear, rigorous, and publication-quality paper.
+
 ## Problem
 
 **2025 MCM Problem C:** Olympic Medal Prediction & Sports Strategy Analysis
 
 [Problem Statement (PDF)](./2025_MCM_Problem_C.pdf)
 
-## Approach
+## Paper Overview
 
-Four-model cascade:
+The paper documents a four-model cascade for Olympic medal prediction:
 
-1. **Multiple Linear Regression** — Predict total medal counts using number of events, types of sports, historical medal data, and host country effect
-2. **Bayesian Dirichlet Posterior** — Decompose total medals into gold/silver/bronze distribution given historical data
-3. **Advantage-Event Relaxation Function** — Classify events as advantage (score >0.6), balanced (0.4-0.6), or disadvantage (<0.4) events; correct Bayesian estimates for zero-medal countries
-4. **Great Coach Effect** — Wilcoxon signed-rank test (qualitative) + quantitative measurement of athlete performance changes before/after coaching; investment ROI analysis for three countries
+1. **Multiple Linear Regression** — Predicting total medal counts from event participation, sport types, historical performance, and host country effect
+2. **Bayesian Dirichlet Posterior** — Decomposing total medals into gold/silver/bronze distributions using historical data as priors
+3. **Advantage-Event Relaxation Function** — Classifying events by national strength (advantage/balanced/disadvantage) to correct predictions for zero-medal countries
+4. **Great Coach Effect** — Wilcoxon signed-rank test + quantitative before/after analysis of athlete performance under elite coaching; ROI estimation for three target countries
 
-### Key Findings
+### Key Findings Documented in the Paper
 
-- Predicted the 2028 Los Angeles Olympic medal table with 95% confidence intervals
-- 22 countries predicted to win their first-ever Olympic medals
-- Pareto effect: 80% of medals concentrated in 20% of athletes (r = 0.62 correlation between sport diversity and medal count)
-- Sensitivity analysis: Gaussian noise perturbation on event count, athlete performance, and historical medal rates
+- Predicted 2028 Los Angeles Olympic medal table with 95% confidence intervals
+- 22 countries identified as potential first-time medal winners
+- Pareto effect observed: 80% of medals concentrated in 20% of athletes
+- Sport diversity–medal count correlation: r = 0.62
+- Gaussian noise perturbation sensitivity analysis on event count, athlete performance, and historical medal rates
 
-## My Role
+## What This Repository Demonstrates
 
-**Lead English paper writer & LaTeX typesetter.** Responsible for translating the team's modeling work into a complete English academic paper, including full LaTeX typesetting with figures, tables, mathematical notation, and bibliography.
+**English academic writing** — translating technical modeling work into a logically structured, publication-ready English paper with precise terminology.
+
+**LaTeX proficiency** — independent typesetting of a full-length paper: mathematical notation, multi-panel figures, tables, cross-references, bibliography management, and adherence to the MCM official template (`mcmthesis.cls`).
+
+**Writing as a process** — 15 sequential versions (Article_1 through Article_15) show the complete drafting and revision cycle: from initial scaffold → incremental refinement → final polished submission.
 
 ## Iteration History
 
-The `latex-source/` directory contains 15 sequential versions (Article_1 through Article_15), showing the complete writing and revision process from initial draft to final submission.
+The `latex-source/` directory preserves all 15 versions:
 
 | File | Description |
 |---|---|
-| `Article_1.tex/pdf` | Initial draft |
-| `Article_2.tex/pdf` through `Article_14.tex/pdf` | Incremental revisions |
+| `Article_1.tex/pdf` | Initial draft — structure and rough content |
+| `Article_2.tex/pdf` through `Article_14.tex/pdf` | Incremental revisions — tightening the narrative, refining notation, fixing figure placement |
 | `Article_15.tex/pdf` | **Final submission** |
 | `MCM-ICM_Summary.tex/pdf` | Official MCM Summary Sheet |
 
@@ -58,7 +67,7 @@ mcm-2025/
 
 ## License
 
-[CC BY 4.0](./LICENSE) — You may share and adapt with attribution. Commercial journals may require original work; check their policies before reusing content.
+[CC BY 4.0](./LICENSE) — You may share and adapt with attribution.
 
 ## Citation
 
