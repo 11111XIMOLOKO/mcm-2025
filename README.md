@@ -4,7 +4,9 @@
 
 ## My Role
 
-**Lead English paper writer & LaTeX typesetter.** I translated the team's modeling work into a complete English academic paper with full LaTeX typesetting — writing the narrative, structuring the argument, typesetting equations/tables/figures, managing the bibliography, and producing the final camera-ready PDF. The four models described below were developed by my teammates; my contribution was documenting them in a clear, rigorous, and publication-quality paper.
+**Lead English paper writer & LaTeX typesetter.** I translated the team's modeling work into a complete English academic paper with full LaTeX typesetting — writing the narrative, structuring the argument, typesetting equations/tables/figures, managing the bibliography, and producing the final camera-ready PDF.
+
+This was a 3-person team competition. The four models described below were developed by my teammates, who were responsible for model design and programming. My contribution focused on English paper writing and LaTeX typesetting.
 
 ## Problem
 
@@ -64,6 +66,8 @@ mcm-2025/
 ## Award
 
 **Meritorious Winner (Top 7% globally)** — MCM/ICM 2025
+
+[Award Certificate (PDF)](./award-certificate.pdf)
 
 ## License
 
