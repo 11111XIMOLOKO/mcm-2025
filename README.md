@@ -41,9 +41,9 @@ The paper documents a four-model cascade for Olympic medal prediction:
 
 ## What I Learned
 
-I started this competition with almost no LaTeX experience. But the foundation was laid earlier: the week before, right after finals, my teammates and I spent several days doing mock runs with past MCM problems — practicing our rhythm, arguing about notation, learning how each other thought. So when the real 96 hours began, we weren't starting from zero as a team.
+I didn't come into this competition knowing LaTeX. The week before, right after finals, my teammates and I ran 2-3 full mock competitions with past MCM problems. I collected several award-winning papers and studied their formatting. For equations and tables, I found online visual editors that let me draw what I needed and then auto-generated the LaTeX code — I'd copy, paste, tweak. By the time the real competition started, I'd already gone through the full paper-production cycle multiple times.
 
-Four days later, I had produced a camera-ready paper that had gone through 15 iterations — the source file growing from 25KB to 80KB as I learned, in real time, how to manage cross-references, multi-panel figures, and a bibliography.
+What followed was less about learning LaTeX and more about the density of revision. The source file grew from 25KB to 80KB across 15 iterations — not because I was still figuring out the tools, but because the paper itself was evolving: structure tightening, figures swapping, notation standardizing. Each iteration was small, but there were a lot of them.
 
 The harder skill was invisible. I wasn't building the models — but the team's shared principle was simple: the paper is the product. Everyone's job was to figure out the most efficient way to get their work onto the page. That meant designing a relay system: my teammates would walk me through what they'd built, I'd draft the section, they'd check it for accuracy, and we'd iterate. The mock training from the week before was what made this possible — we already knew how each other communicated, so the handoffs were fast.
 
